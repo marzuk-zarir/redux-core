@@ -1,0 +1,10 @@
+{
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.fontSize": 19,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "github.copilot.enable": {
+        "javascript": false
+    }
+}
